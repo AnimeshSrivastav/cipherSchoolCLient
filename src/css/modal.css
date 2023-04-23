@@ -1,0 +1,33 @@
+.personalInfo__modal {
+  width: 100vw;
+  height: 100vh;
+}
+.modal__content {
+  display: flex;
+  /* justify-content: space-between; */
+  position: absolute;
+  width: 60vw;
+  height: 70vh;
+  z-index: 1;
+  top: 15vh;
+  left: 20vw;
+  background: rgb(231, 229, 229);
+}
+.modal__img {
+  width: 20vw;
+  height: 40vh;
+  margin-top: 12vh;
+  margin-inline: 2rem;
+}
+.modal__img > img {
+  width: 100%;
+  height: 100%;
+}
+
+.modal__info {
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}

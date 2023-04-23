@@ -1,0 +1,33 @@
+.profile {
+  padding: 2rem;
+}
+.profile__heading {
+  display: flex;
+  justify-content: space-between;
+}
+.links {
+  display: flex;
+}
+
+.profile__heading {
+  display: flex;
+  justify-content: space-between;
+}
+
+.professional__content {
+  display: flex;
+}
+
+.professional__content > div {
+  width: 40vw;
+  margin-inline-end: 2rem;
+  margin-bottom: 2rem;
+}
+
+.edit__icon {
+  position: absolute;
+  bottom: 3rem;
+  left: 3rem;
+  background-color: rgb(234, 234, 234); 
+  
+}

@@ -1,0 +1,25 @@
+.login__from {
+  display: flex;
+  width: 40vw;
+  padding: 2rem;
+  position: absolute;
+  align-items: center;
+  top: 20vh;
+  left: 30vw;
+  flex-direction: column;
+  background-color: rgb(227, 223, 223);
+  border: 1px solid black;
+}
+
+.signup__from {
+  display: flex;
+  width: 40vw;
+  padding: 1rem;
+  position: absolute;
+  align-items: center;
+  top: 10vh;
+  left: 30vw;
+  flex-direction: column;
+  background-color: rgb(227, 223, 223);
+  border: 1px solid black;
+}
